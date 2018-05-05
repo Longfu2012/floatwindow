@@ -1,0 +1,38 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="font_12sp">12.0sp</dimen>
+    <dimen name="font_14sp">14.0sp</dimen>
+    <dimen name="font_16sp">16.0sp</dimen>
+    <dimen name="font_18sp">18.0sp</dimen>
+    <dimen name="font_20sp">20.0sp</dimen>
+    <dimen name="font_22sp">22.0sp</dimen>
+    <dimen name="font_24sp">24.0sp</dimen>
+    <dimen name="font_30sp">30.0sp</dimen>
+    <dimen name="font_36sp">36.0sp</dimen>
+
+    <dimen name="dip_10">10.0dip</dimen>
+    <dimen name="dip_100">100.0dip</dimen>
+    <dimen name="dip_15">15.0dip</dimen>
+    <dimen name="dip_150">150.0dip</dimen>
+    <dimen name="dip_170">170.0dip</dimen>
+    <dimen name="dip_20">20.0dip</dimen>
+    <dimen name="dip_200">200.0dip</dimen>
+    <dimen name="dip_24">24.0dip</dimen>
+    <dimen name="dip_25">25.0dip</dimen>
+    <dimen name="dip_3">3.0dip</dimen>
+    <dimen name="dip_30">30.0dip</dimen>
+    <dimen name="dip_4">4.0dip</dimen>
+    <dimen name="dip_40">40.0dip</dimen>
+    <dimen name="dip_5">5.0dip</dimen>
+    <dimen name="dip_50">50.0dip</dimen>
+    <dimen name="dip_55">55.0dip</dimen>
+    <dimen name="dip_7">7.0dip</dimen>
+
+    <item name="menuFromDegrees" format="float" type="dimen">180.0</item>
+    <item name="menuToDegrees" format="float" type="dimen">360.0</item>
+    <dimen name="menuChildSize">30dp</dimen>
+
+</resources>
